@@ -1,4 +1,3 @@
-import React from 'react';
 import { MentionInput, MentionOption } from './components/MentionInput';
 import './App.css';
 
